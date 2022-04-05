@@ -7,15 +7,16 @@
 
 .semantic {
     width: 300px;
-    background-color: rgb(193, 225, 214);
+    background-color: #fd9d3e8a;
     padding: 10px;
     border-radius: 20px;
-
+    height: 450px;
 }
 
 .inline-container {
     width: 300px;
-    background-color: rgb(193, 225, 214);
+    background-color: #fd9d3e8a;
     padding: 10px;
     border-radius: 20px;
+    height: 450px;
 }
