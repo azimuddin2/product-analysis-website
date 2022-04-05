@@ -48,8 +48,8 @@ const Dashboard = () => {
             <div>
                 <LineChart
                     data={data}
-                    width={300}
-                    height={300}
+                    width={400}
+                    height={400}
                     margin={{
                         top: 5,
                         right: 30,
@@ -71,8 +71,8 @@ const Dashboard = () => {
 
             <div>
                 <LineChart
-                    width={500}
-                    height={200}
+                    width={600}
+                    height={300}
                     data={data}
                     syncId="anyId"
                     margin={{
