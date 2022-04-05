@@ -1,14 +1,18 @@
 .cart-container {
-    display: flex;
-    grid-template-columns: repeat(3, 1fr);
     margin-top: 50px;
-    width: 300px;
-    /* align-content: center; */
-    margin-left: 300px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.review-img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 }
 
 .review-content {
-    background-color: rgb(223, 202, 242);
+    border: 2px solid #ddd;
     padding: 20px;
     border-radius: 20px;
     margin: 10px;
