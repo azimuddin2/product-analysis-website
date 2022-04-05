@@ -1,5 +1,5 @@
-# This is My Project Name : Product-Pizza-Website
-my netlify link or live link : ()
+# My Project Name : Product-Pizza-Website
+My Netlify Live Site link : (https://cute-cobbler-7efb6b.netlify.app/)
 ## Using Project Menu : 
 * using Reviews menu:
 * Using Homepage
