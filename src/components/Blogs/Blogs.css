@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.semantic {
+    width: 300px;
+    background-color: rgb(193, 225, 214);
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.inline-container {
+    width: 300px;
+    background-color: rgb(193, 225, 214);
+    padding: 10px;
+    border-radius: 20px;
+}
